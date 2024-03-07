@@ -52,19 +52,19 @@ exclude:
 collections:
   pages:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path
     sort_by: page
   hinh-thai-ngu-phap-tieng-han:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path
     sort_by: page
   khai-quat-ngu-phap-tieng-han:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path
     sort_by: page
   phu-luc:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path
     sort_by: page
 
 page_width: 800px
